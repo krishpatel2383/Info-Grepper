@@ -35,4 +35,4 @@ $ python search_user.py -u hack-parthsharma -t instagram github
 
 ## Supported Platforms
 
-The list of supported platforms can be found [here](./platfrom.txt)
+The list of supported platforms can be found in platform.txt file
