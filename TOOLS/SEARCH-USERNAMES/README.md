@@ -1,4 +1,4 @@
-# Search_Username
+# Search Usernames
 
 This script of code, using `request` module, will  help to determine weather, a username exists on a platform or not.
 
